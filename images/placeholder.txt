@@ -1,0 +1,57 @@
+/*
+ ******************************************************
+ * Professional Business Website - Image Placeholders
+ ******************************************************
+ * This file serves as a placeholder for image files.
+ * In a real project, you would replace these with actual
+ * image files named as follows:
+ *
+ * Hero Section:
+ * hero-bg.jpg - Background image for hero section
+ * hero-image.png - Main hero image
+ *
+ * About Section:
+ * about-us.jpg - About us main image
+ * about-preview.jpg - About preview image
+ * team1.jpg - Team member 1
+ * team2.jpg - Team member 2
+ * team3.jpg - Team member 3
+ * team4.jpg - Team member 4
+ * client1.jpg - Client testimonial 1
+ * client2.jpg - Client testimonial 2
+ *
+ * Partners:
+ * partner1.png - Partner logo 1
+ * partner2.png - Partner logo 2
+ * partner3.png - Partner logo 3
+ * partner4.png - Partner logo 4
+ * partner5.png - Partner logo 5
+ *
+ * Portfolio:
+ * portfolio1.jpg - Portfolio item 1
+ * portfolio1-large.jpg - Portfolio item 1 large
+ * portfolio1-thumb1.jpg - Portfolio item 1 thumbnail 1
+ * portfolio1-thumb2.jpg - Portfolio item 1 thumbnail 2
+ * portfolio1-thumb3.jpg - Portfolio item 1 thumbnail 3
+ * portfolio1-thumb4.jpg - Portfolio item 1 thumbnail 4
+ * portfolio2.jpg - Portfolio item 2
+ * portfolio3.jpg - Portfolio item 3
+ * portfolio4.jpg - Portfolio item 4
+ * portfolio5.jpg - Portfolio item 5
+ * portfolio6.jpg - Portfolio item 6
+ * portfolio7.jpg - Portfolio item 7
+ * portfolio8.jpg - Portfolio item 8
+ *
+ * Page Headers:
+ * page-header-bg.jpg - Background for page headers
+ *
+ ******************************************************
+ */
+
+Please replace this file with actual image files named as specified above.
+For optimal performance, use optimized images with appropriate dimensions:
+- Hero images: 1920x1080px
+- Team images: 400x400px
+- Portfolio images: 600x400px
+- Thumbnail images: 200x200px
+- Partner logos: 200x100px (transparent background preferred)
